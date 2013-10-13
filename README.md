@@ -1,4 +1,4 @@
-canvas-paint
+HTML5 Canvas Paint
 ============
 
-HTML5 canvas paint application
+A simple paint-like application using the HTML5 canvas and Sketch.js.

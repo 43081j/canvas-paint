@@ -57,6 +57,7 @@ $(function() {
 			});
 			$('.tools-eraser').click(function() {
 				self._erase = true;
+				self._tool = 'pen';
 			});
 			$('.tools-pen, .tools-brush').click(function() {
 				self._erase = false;
